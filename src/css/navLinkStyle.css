@@ -1,0 +1,19 @@
+.navLink {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 1.3rem;
+}
+
+.navLink img {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.navLink h2 {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+}

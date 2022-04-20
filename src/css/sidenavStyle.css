@@ -1,0 +1,20 @@
+.sidenav {
+  height: 100vh;
+  width: 14.125rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  padding: 2rem;
+  padding-right: 0;
+  gap: 2.75rem;
+  background-color: var(--grey--background);
+}
+
+.sidenav div:first-child {
+  margin-bottom: 3rem;
+}
+
+.sidenav div:last-child {
+  margin-top: auto;
+}

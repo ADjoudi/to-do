@@ -1,0 +1,26 @@
+.titlebar {
+  display: flex;
+  justify-content: space-between;
+  padding: 7rem 1.625rem 2rem 1.625rem;
+  align-items: center;
+}
+
+.addnew {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.titlebar h1 {
+  font-size: 2.25rem;
+  font-weight: 600;
+}
+
+.titlebar h2 {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.titlebar h2:last-child {
+  color: var(--blue);
+}
