@@ -7,7 +7,7 @@ const addText = document.createElement("h2");
 const addIcon = document.createElement("h2");
 
 titleBar.classList.add("titlebar");
-addNew.classList.add("addnew");
+addNew.setAttribute("id", "addnew");
 title.textContent = "DRAFT";
 addText.textContent = "New";
 addIcon.textContent = "+";
