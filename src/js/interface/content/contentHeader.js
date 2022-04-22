@@ -1,11 +1,13 @@
-import "../../css/contentHeaderStyle.css";
+import "../../../css/contentHeaderStyle.css";
+
 const header = document.createElement("div");
-header.classList.add("header");
 const title = document.createElement("h1");
 const date = document.createElement("div");
-date.classList.add("date");
 const dateIcon = document.createElement("img");
 const dateText = document.createElement("h2");
+
+header.classList.add("header");
+date.classList.add("date");
 
 title.textContent = "To Do";
 dateIcon.src = "./resources/dateGraphics.svg";

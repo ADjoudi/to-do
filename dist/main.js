@@ -76,7 +76,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \".navLink {\\n  display: flex;\\n  justify-content: start;\\n  align-items: center;\\n  gap: 1.3rem;\\n}\\n\\n.navLink img {\\n  width: 1.5rem;\\n  height: 1.5rem;\\n}\\n\\n.navLink h2 {\\n  margin: 0;\\n  padding: 0;\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  font-size: 1rem;\\n  font-weight: 400;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://to-do/./src/css/navLinkStyle.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \".navLink {\\n  width: 100%;\\n  display: flex;\\n  justify-content: start;\\n  align-items: center;\\n  gap: 1.3rem;\\n  padding: 1rem;\\n}\\n.navLink:hover {\\n  cursor: pointer;\\n  background-color: #f0f8ff;\\n}\\n\\n.navLink img {\\n  width: 1.5rem;\\n  height: 1.5rem;\\n}\\n\\n.navLink h2 {\\n  margin: 0;\\n  padding: 0;\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  font-size: 1rem;\\n  font-weight: 400;\\n}\\n.navLinkClicked:hover {\\n  background-color: var(--background--color);\\n}\\n.navLinkClicked img {\\n  filter: var(--accent--color--filter);\\n}\\n\\n.navLinkClicked h2 {\\n  color: var(--blue);\\n  font-weight: 800;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://to-do/./src/css/navLinkStyle.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -96,7 +96,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \".sidenav {\\n  height: 100vh;\\n  width: 14.125rem;\\n  display: flex;\\n  flex-direction: column;\\n  justify-content: start;\\n  align-items: start;\\n  padding: 2rem;\\n  padding-right: 0;\\n  gap: 2.75rem;\\n  background-color: var(--grey--background);\\n}\\n\\n.sidenav div:first-child {\\n  margin-bottom: 3rem;\\n}\\n\\n.sidenav div:last-child {\\n  margin-top: auto;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://to-do/./src/css/sidenavStyle.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \".sidenav {\\n  height: 100vh;\\n  width: 14.125rem;\\n  display: flex;\\n  flex-direction: column;\\n  justify-content: start;\\n  align-items: start;\\n  padding: 1rem;\\n\\n  gap: 1.75rem;\\n  background-color: var(--grey--background);\\n}\\n\\n.sidenav div:first-child {\\n  margin-bottom: 3rem;\\n}\\n\\n.sidenav div:last-child {\\n  margin-top: auto;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://to-do/./src/css/sidenavStyle.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -106,7 +106,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \*****************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n___CSS_LOADER_EXPORT___.push([module.id, \"@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto:wght@400;500;700&display=swap);\"]);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \":root {\\n  --grey--background: #f6f6f6;\\n  --white--background: white;\\n  --blue: #388ef4;\\n}\\n\\n* {\\n  margin: 0;\\n  padding: 0;\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  box-sizing: border-box;\\n}\\n\\nbody {\\n  width: 100vw;\\n  height: 100vh;\\n  display: flex;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://to-do/./src/css/style.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n___CSS_LOADER_EXPORT___.push([module.id, \"@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto:wght@400;500;700&display=swap);\"]);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \":root {\\n  --grey--background: #f6f6f6;\\n  --white--background: white;\\n  --blue: #388ef4;\\n  --accent--color--filter: invert(75%) sepia(59%) saturate(3607%)\\n    hue-rotate(346deg) brightness(99%) contrast(89%);\\n}\\n\\n* {\\n  margin: 0;\\n  padding: 0;\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  box-sizing: border-box;\\n}\\n\\nbody {\\n  width: 100vw;\\n  height: 100vh;\\n  display: flex;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://to-do/./src/css/style.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -336,87 +336,7 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _js_interface__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./js/interface */ \"./src/js/interface.js\");\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./css/style.css */ \"./src/css/style.css\");\n\n\n\n(0,_js_interface__WEBPACK_IMPORTED_MODULE_0__[\"default\"])();\n\n\n//# sourceURL=webpack://to-do/./src/index.js?");
-
-/***/ }),
-
-/***/ "./src/js/category/categories.js":
-/*!***************************************!*\
-  !*** ./src/js/category/categories.js ***!
-  \***************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _category__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./category */ \"./src/js/category/category.js\");\n/* harmony import */ var _css_categories_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../css/categories.css */ \"./src/css/categories.css\");\n\n\n\nconst categories = document.createElement(\"div\");\ncategories.classList.add(\"categories\");\n\nconst list = [\"Facebook\", \"Google\", \"Figma\", \"Outdoors\"];\nlist.forEach((item) => {\n  const category = (0,_category__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(item, \"9\");\n  categories.appendChild(category);\n});\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (categories);\n\n\n//# sourceURL=webpack://to-do/./src/js/category/categories.js?");
-
-/***/ }),
-
-/***/ "./src/js/category/category.js":
-/*!*************************************!*\
-  !*** ./src/js/category/category.js ***!
-  \*************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_category_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../css/category.css */ \"./src/css/category.css\");\n\n\nfunction newCategory(t, nbrTasks) {\n  const category = document.createElement(\"div\");\n  category.classList.add(\"category\");\n  const title = document.createElement(\"h2\");\n  const nbrTasksRemaining = document.createElement(\"h3\");\n  nbrTasksRemaining.classList.add(\"nbrTasks\");\n  const enterBtn = document.createElement(\"h3\");\n  enterBtn.classList.add(\"enterBtn\");\n  title.textContent = t;\n  nbrTasksRemaining.textContent = `${nbrTasks} Tasks Remaining`;\n  enterBtn.textContent = \"->\";\n  category.appendChild(title);\n  category.appendChild(nbrTasksRemaining);\n  category.appendChild(enterBtn);\n  return category;\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (newCategory);\n\n\n//# sourceURL=webpack://to-do/./src/js/category/category.js?");
-
-/***/ }),
-
-/***/ "./src/js/category/sections.js":
-/*!*************************************!*\
-  !*** ./src/js/category/sections.js ***!
-  \*************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _titlebar__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./titlebar */ \"./src/js/category/titlebar.js\");\n/* harmony import */ var _categories__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./categories */ \"./src/js/category/categories.js\");\n/* harmony import */ var _css_sections_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../css/sections.css */ \"./src/css/sections.css\");\n\n\n\nconst sections = document.createElement(\"div\");\nsections.classList.add(\"sections\");\nsections.appendChild(_titlebar__WEBPACK_IMPORTED_MODULE_0__[\"default\"]);\nsections.appendChild(_categories__WEBPACK_IMPORTED_MODULE_1__[\"default\"]);\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (sections);\n\n\n//# sourceURL=webpack://to-do/./src/js/category/sections.js?");
-
-/***/ }),
-
-/***/ "./src/js/category/titlebar.js":
-/*!*************************************!*\
-  !*** ./src/js/category/titlebar.js ***!
-  \*************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_titleBar_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../css/titleBar.css */ \"./src/css/titleBar.css\");\n\n\nconst titleBar = document.createElement(\"div\");\ntitleBar.classList.add(\"titlebar\");\nconst title = document.createElement(\"h1\");\nconst addNew = document.createElement(\"div\");\naddNew.classList.add(\"addnew\");\ntitle.textContent = \"DRAFT\";\n\nconst addText = document.createElement(\"h2\");\nconst addIcon = document.createElement(\"h2\");\naddText.textContent = \"New\";\naddIcon.textContent = \"+\";\naddNew.appendChild(addText);\naddNew.appendChild(addIcon);\n\ntitleBar.appendChild(title);\ntitleBar.appendChild(addNew);\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (titleBar);\n\n\n//# sourceURL=webpack://to-do/./src/js/category/titlebar.js?");
-
-/***/ }),
-
-/***/ "./src/js/content/content.js":
-/*!***********************************!*\
-  !*** ./src/js/content/content.js ***!
-  \***********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_content_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../css/content.css */ \"./src/css/content.css\");\n/* harmony import */ var _contentHeader__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./contentHeader */ \"./src/js/content/contentHeader.js\");\n/* harmony import */ var _contentTasks__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./contentTasks */ \"./src/js/content/contentTasks.js\");\n\n\n\nconst content = document.createElement(\"div\");\ncontent.classList.add(\"content\");\ncontent.appendChild(_contentHeader__WEBPACK_IMPORTED_MODULE_1__[\"default\"]);\ncontent.appendChild(_contentTasks__WEBPACK_IMPORTED_MODULE_2__[\"default\"]);\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (content);\n\n\n//# sourceURL=webpack://to-do/./src/js/content/content.js?");
-
-/***/ }),
-
-/***/ "./src/js/content/contentHeader.js":
-/*!*****************************************!*\
-  !*** ./src/js/content/contentHeader.js ***!
-  \*****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_contentHeaderStyle_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../css/contentHeaderStyle.css */ \"./src/css/contentHeaderStyle.css\");\n\nconst header = document.createElement(\"div\");\nheader.classList.add(\"header\");\nconst title = document.createElement(\"h1\");\nconst date = document.createElement(\"div\");\ndate.classList.add(\"date\");\nconst dateIcon = document.createElement(\"img\");\nconst dateText = document.createElement(\"h2\");\n\ntitle.textContent = \"To Do\";\ndateIcon.src = \"./resources/dateGraphics.svg\";\ndateText.textContent = \"Monday 18th of April 2022\";\n\ndate.appendChild(dateIcon);\ndate.appendChild(dateText);\nheader.appendChild(title);\nheader.appendChild(date);\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (header);\n\n\n//# sourceURL=webpack://to-do/./src/js/content/contentHeader.js?");
-
-/***/ }),
-
-/***/ "./src/js/content/contentTasks.js":
-/*!****************************************!*\
-  !*** ./src/js/content/contentTasks.js ***!
-  \****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_contentTasks_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../css/contentTasks.css */ \"./src/css/contentTasks.css\");\n/* harmony import */ var _task__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./task */ \"./src/js/content/task.js\");\n\n\n\nconst contentTasks = document.createElement(\"div\");\ncontentTasks.classList.add(\"tasks\");\ncontentTasks.appendChild((0,_task__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(\"complete this project!\"));\ncontentTasks.appendChild((0,_task__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(\"Add Checkbox to tasks!\"));\ncontentTasks.appendChild((0,_task__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(\"Implement logic to interface\"));\nconst add = document.createElement(\"img\");\nadd.src = \"./resources/addtodo.svg\";\nadd.classList.add(\"addTask\");\ncontentTasks.appendChild(add);\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (contentTasks);\n\n\n//# sourceURL=webpack://to-do/./src/js/content/contentTasks.js?");
-
-/***/ }),
-
-/***/ "./src/js/content/task.js":
-/*!********************************!*\
-  !*** ./src/js/content/task.js ***!
-  \********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ newTask)\n/* harmony export */ });\n/* harmony import */ var _css_task_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../css/task.css */ \"./src/css/task.css\");\n\n\nfunction newTask(taskString) {\n  const task = document.createElement(\"div\");\n  task.classList.add(\"task\");\n  const taskText = document.createElement(\"p\");\n  taskText.textContent = taskString;\n  const interactions = document.createElement(\"div\");\n  interactions.classList.add(\"interactions\");\n  const edit = document.createElement(\"img\");\n  const del = document.createElement(\"img\");\n  edit.src = \"./resources/edit.svg\";\n  del.src = \"./resources/delete.svg\";\n  interactions.appendChild(edit);\n  interactions.appendChild(del);\n\n  task.appendChild(taskText);\n  task.appendChild(interactions);\n\n  return task;\n}\n\n\n//# sourceURL=webpack://to-do/./src/js/content/task.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _js_interfaceController__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./js/interfaceController */ \"./src/js/interfaceController.js\");\n\n(0,_js_interfaceController__WEBPACK_IMPORTED_MODULE_0__[\"default\"])();\n\n\n//# sourceURL=webpack://to-do/./src/index.js?");
 
 /***/ }),
 
@@ -426,37 +346,137 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \*****************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* export default binding */ __WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _sidenav_sidenav__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./sidenav/sidenav */ \"./src/js/sidenav/sidenav.js\");\n/* harmony import */ var _category_sections__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./category/sections */ \"./src/js/category/sections.js\");\n/* harmony import */ var _content_content__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./content/content */ \"./src/js/content/content.js\");\n\n\n\n\n/* harmony default export */ function __WEBPACK_DEFAULT_EXPORT__() {\n  const body = document.querySelector(\"body\");\n  body.appendChild(_sidenav_sidenav__WEBPACK_IMPORTED_MODULE_0__[\"default\"]);\n  body.appendChild(_category_sections__WEBPACK_IMPORTED_MODULE_1__[\"default\"]);\n  body.appendChild(_content_content__WEBPACK_IMPORTED_MODULE_2__[\"default\"]);\n}\n\n\n//# sourceURL=webpack://to-do/./src/js/interface.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* export default binding */ __WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _interface_sidenav_sidenav__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./interface/sidenav/sidenav */ \"./src/js/interface/sidenav/sidenav.js\");\n/* harmony import */ var _interface_category_sections__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./interface/category/sections */ \"./src/js/interface/category/sections.js\");\n/* harmony import */ var _interface_content_content__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./interface/content/content */ \"./src/js/interface/content/content.js\");\n\n\n\n\n/* harmony default export */ function __WEBPACK_DEFAULT_EXPORT__() {\n  const body = document.querySelector(\"body\");\n  body.appendChild(_interface_sidenav_sidenav__WEBPACK_IMPORTED_MODULE_0__[\"default\"]);\n  body.appendChild(_interface_category_sections__WEBPACK_IMPORTED_MODULE_1__[\"default\"]);\n  body.appendChild(_interface_content_content__WEBPACK_IMPORTED_MODULE_2__[\"default\"]);\n}\n\n\n//# sourceURL=webpack://to-do/./src/js/interface.js?");
 
 /***/ }),
 
-/***/ "./src/js/sidenav/logo.js":
-/*!********************************!*\
-  !*** ./src/js/sidenav/logo.js ***!
-  \********************************/
+/***/ "./src/js/interface/category/categories.js":
+/*!*************************************************!*\
+  !*** ./src/js/interface/category/categories.js ***!
+  \*************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_logoStyle_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../css/logoStyle.css */ \"./src/css/logoStyle.css\");\n\nconst logo = document.createElement(\"div\");\nlogo.classList.add(\"logo\");\nconst logoIcon = document.createElement(\"img\");\nconst logoText = document.createElement(\"h1\");\n\nlogoIcon.src = \"./resources/logo.svg\";\nlogoText.textContent = \"Get It Done\";\nlogo.appendChild(logoIcon);\nlogo.appendChild(logoText);\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (logo);\n\n\n//# sourceURL=webpack://to-do/./src/js/sidenav/logo.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _category__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./category */ \"./src/js/interface/category/category.js\");\n/* harmony import */ var _css_categories_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../css/categories.css */ \"./src/css/categories.css\");\n\n\n\nconst categories = document.createElement(\"div\");\ncategories.classList.add(\"categories\");\n\nconst list = [\"Facebook\", \"Google\", \"Figma\", \"Outdoors\"];\nlist.forEach((item) => {\n  const category = (0,_category__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(item, \"9\");\n  categories.appendChild(category);\n});\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (categories);\n\n\n//# sourceURL=webpack://to-do/./src/js/interface/category/categories.js?");
 
 /***/ }),
 
-/***/ "./src/js/sidenav/navLink.js":
-/*!***********************************!*\
-  !*** ./src/js/sidenav/navLink.js ***!
-  \***********************************/
+/***/ "./src/js/interface/category/category.js":
+/*!***********************************************!*\
+  !*** ./src/js/interface/category/category.js ***!
+  \***********************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_navLinkStyle_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../css/navLinkStyle.css */ \"./src/css/navLinkStyle.css\");\n\n\nfunction newNavLink(iconSrc, linkText) {\n  const navLink = document.createElement(\"div\");\n  navLink.classList.add(\"navLink\");\n  const icon = document.createElement(\"img\");\n  const link = document.createElement(\"h2\");\n  icon.src = iconSrc;\n  link.textContent = linkText;\n  navLink.appendChild(icon);\n  navLink.appendChild(link);\n  return navLink;\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (newNavLink);\n\n\n//# sourceURL=webpack://to-do/./src/js/sidenav/navLink.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_category_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../css/category.css */ \"./src/css/category.css\");\n\n\nfunction newCategory(t, nbrTasks) {\n  const category = document.createElement(\"div\");\n  const title = document.createElement(\"h2\");\n  const nbrTasksRemaining = document.createElement(\"h3\");\n  const enterBtn = document.createElement(\"h3\");\n\n  category.classList.add(\"category\");\n  nbrTasksRemaining.classList.add(\"nbrTasks\");\n  enterBtn.classList.add(\"enterBtn\");\n\n  title.textContent = t;\n  nbrTasksRemaining.textContent = `${nbrTasks} Tasks Remaining`;\n  enterBtn.textContent = \"->\";\n\n  category.appendChild(title);\n  category.appendChild(nbrTasksRemaining);\n  category.appendChild(enterBtn);\n\n  return category;\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (newCategory);\n\n\n//# sourceURL=webpack://to-do/./src/js/interface/category/category.js?");
 
 /***/ }),
 
-/***/ "./src/js/sidenav/sidenav.js":
-/*!***********************************!*\
-  !*** ./src/js/sidenav/sidenav.js ***!
-  \***********************************/
+/***/ "./src/js/interface/category/sections.js":
+/*!***********************************************!*\
+  !*** ./src/js/interface/category/sections.js ***!
+  \***********************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_sidenavStyle_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../css/sidenavStyle.css */ \"./src/css/sidenavStyle.css\");\n/* harmony import */ var _navLink__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./navLink */ \"./src/js/sidenav/navLink.js\");\n/* harmony import */ var _logo__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./logo */ \"./src/js/sidenav/logo.js\");\n\n\n\n\nconst sidenav = document.createElement(\"div\");\nsidenav.classList.add(\"sidenav\");\nsidenav.appendChild(_logo__WEBPACK_IMPORTED_MODULE_2__[\"default\"]);\nconst navs = [\n  { icon: \"./resources/draft.svg\", text: \"Draft\" },\n  { icon: \"./resources/work.svg\", text: \"Work\" },\n  { icon: \"./resources/health.svg\", text: \"Health\" },\n  { icon: \"./resources/mind.svg\", text: \"Mind\" },\n  { icon: \"./resources/playground.svg\", text: \"Playground\" },\n  { icon: \"./resources/minimize.svg\", text: \"Minimize\" },\n];\nnavs.forEach((nav) => {\n  const link = (0,_navLink__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(nav.icon, nav.text);\n  sidenav.appendChild(link);\n});\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (sidenav);\n\n\n//# sourceURL=webpack://to-do/./src/js/sidenav/sidenav.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _titlebar__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./titlebar */ \"./src/js/interface/category/titlebar.js\");\n/* harmony import */ var _categories__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./categories */ \"./src/js/interface/category/categories.js\");\n/* harmony import */ var _css_sections_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../css/sections.css */ \"./src/css/sections.css\");\n\n\n\n\nconst sections = document.createElement(\"div\");\nsections.classList.add(\"sections\");\nsections.appendChild(_titlebar__WEBPACK_IMPORTED_MODULE_0__[\"default\"]);\nsections.appendChild(_categories__WEBPACK_IMPORTED_MODULE_1__[\"default\"]);\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (sections);\n\n\n//# sourceURL=webpack://to-do/./src/js/interface/category/sections.js?");
+
+/***/ }),
+
+/***/ "./src/js/interface/category/titlebar.js":
+/*!***********************************************!*\
+  !*** ./src/js/interface/category/titlebar.js ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_titleBar_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../css/titleBar.css */ \"./src/css/titleBar.css\");\n\n\nconst titleBar = document.createElement(\"div\");\nconst title = document.createElement(\"h1\");\nconst addNew = document.createElement(\"div\");\nconst addText = document.createElement(\"h2\");\nconst addIcon = document.createElement(\"h2\");\n\ntitleBar.classList.add(\"titlebar\");\naddNew.classList.add(\"addnew\");\ntitle.textContent = \"DRAFT\";\naddText.textContent = \"New\";\naddIcon.textContent = \"+\";\naddNew.appendChild(addText);\naddNew.appendChild(addIcon);\n\ntitleBar.appendChild(title);\ntitleBar.appendChild(addNew);\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (titleBar);\n\n\n//# sourceURL=webpack://to-do/./src/js/interface/category/titlebar.js?");
+
+/***/ }),
+
+/***/ "./src/js/interface/content/content.js":
+/*!*********************************************!*\
+  !*** ./src/js/interface/content/content.js ***!
+  \*********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_content_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../css/content.css */ \"./src/css/content.css\");\n/* harmony import */ var _contentHeader__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./contentHeader */ \"./src/js/interface/content/contentHeader.js\");\n/* harmony import */ var _contentTasks__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./contentTasks */ \"./src/js/interface/content/contentTasks.js\");\n\n\n\n\nconst content = document.createElement(\"div\");\ncontent.classList.add(\"content\");\ncontent.appendChild(_contentHeader__WEBPACK_IMPORTED_MODULE_1__[\"default\"]);\ncontent.appendChild(_contentTasks__WEBPACK_IMPORTED_MODULE_2__[\"default\"]);\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (content);\n\n\n//# sourceURL=webpack://to-do/./src/js/interface/content/content.js?");
+
+/***/ }),
+
+/***/ "./src/js/interface/content/contentHeader.js":
+/*!***************************************************!*\
+  !*** ./src/js/interface/content/contentHeader.js ***!
+  \***************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_contentHeaderStyle_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../css/contentHeaderStyle.css */ \"./src/css/contentHeaderStyle.css\");\n\n\nconst header = document.createElement(\"div\");\nconst title = document.createElement(\"h1\");\nconst date = document.createElement(\"div\");\nconst dateIcon = document.createElement(\"img\");\nconst dateText = document.createElement(\"h2\");\n\nheader.classList.add(\"header\");\ndate.classList.add(\"date\");\n\ntitle.textContent = \"To Do\";\ndateIcon.src = \"./resources/dateGraphics.svg\";\ndateText.textContent = \"Monday 18th of April 2022\";\n\ndate.appendChild(dateIcon);\ndate.appendChild(dateText);\nheader.appendChild(title);\nheader.appendChild(date);\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (header);\n\n\n//# sourceURL=webpack://to-do/./src/js/interface/content/contentHeader.js?");
+
+/***/ }),
+
+/***/ "./src/js/interface/content/contentTasks.js":
+/*!**************************************************!*\
+  !*** ./src/js/interface/content/contentTasks.js ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_contentTasks_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../css/contentTasks.css */ \"./src/css/contentTasks.css\");\n/* harmony import */ var _taskHandler__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./taskHandler */ \"./src/js/interface/content/taskHandler.js\");\n\n\n\n\nconst tasksInterface = (tasks) => {\n  const contentTasks = document.createElement(\"div\");\n  const add = document.createElement(\"img\");\n\n  contentTasks.classList.add(\"tasks\");\n  add.src = \"./resources/addtodo.svg\";\n  add.classList.add(\"addTask\");\n  add.setAttribute(\"id\", \"addTask\");\n  if (tasks) {\n    tasks.forEach((task) => {\n      contentTasks.appendChild(task);\n    });\n  }\n  console.log(add);\n  contentTasks.appendChild(add);\n\n  return contentTasks;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (tasksInterface(_taskHandler__WEBPACK_IMPORTED_MODULE_1__[\"default\"]));\n\n\n//# sourceURL=webpack://to-do/./src/js/interface/content/contentTasks.js?");
+
+/***/ }),
+
+/***/ "./src/js/interface/content/task.js":
+/*!******************************************!*\
+  !*** ./src/js/interface/content/task.js ***!
+  \******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Task)\n/* harmony export */ });\n/* harmony import */ var _css_task_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../css/task.css */ \"./src/css/task.css\");\n\n\nclass Task {\n  constructor() {\n    this.text;\n    this.dueDate;\n    this.isDone = false;\n  }\n  setText(text) {\n    this.text = text;\n  }\n  setDueDate(dueDate) {\n    this.dueDate = dueDate;\n  }\n  setStatus(isDone) {\n    this.isDone = isDone;\n  }\n\n  getText() {\n    return this.text;\n  }\n  getDueDate() {\n    return this.dueDate;\n  }\n  getStatus() {\n    return this.isDone;\n  }\n\n  createTaskInterface(taskString) {\n    const taskInterface = document.createElement(\"div\");\n    const taskText = document.createElement(\"p\");\n    const interactions = document.createElement(\"div\");\n    const edit = document.createElement(\"img\");\n    const del = document.createElement(\"img\");\n\n    taskInterface.classList.add(\"task\");\n    taskText.textContent = taskString;\n    interactions.classList.add(\"interactions\");\n    edit.src = \"./resources/edit.svg\";\n    del.src = \"./resources/delete.svg\";\n\n    interactions.appendChild(edit);\n    interactions.appendChild(del);\n\n    taskInterface.appendChild(taskText);\n    taskInterface.appendChild(interactions);\n\n    return taskInterface;\n  }\n}\n\n\n//# sourceURL=webpack://to-do/./src/js/interface/content/task.js?");
+
+/***/ }),
+
+/***/ "./src/js/interface/content/taskHandler.js":
+/*!*************************************************!*\
+  !*** ./src/js/interface/content/taskHandler.js ***!
+  \*************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"tasks\": () => (/* binding */ tasks)\n/* harmony export */ });\n/* harmony import */ var _task__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./task */ \"./src/js/interface/content/task.js\");\n\n\nconst tasks = [];\n\n\n//# sourceURL=webpack://to-do/./src/js/interface/content/taskHandler.js?");
+
+/***/ }),
+
+/***/ "./src/js/interface/sidenav/logo.js":
+/*!******************************************!*\
+  !*** ./src/js/interface/sidenav/logo.js ***!
+  \******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_logoStyle_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../css/logoStyle.css */ \"./src/css/logoStyle.css\");\n\nconst logo = document.createElement(\"div\");\nlogo.classList.add(\"logo\");\nconst logoIcon = document.createElement(\"img\");\nconst logoText = document.createElement(\"h1\");\n\nlogoIcon.src = \"./resources/logo.svg\";\nlogoText.textContent = \"Get It Done\";\nlogo.appendChild(logoIcon);\nlogo.appendChild(logoText);\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (logo);\n\n\n//# sourceURL=webpack://to-do/./src/js/interface/sidenav/logo.js?");
+
+/***/ }),
+
+/***/ "./src/js/interface/sidenav/navLink.js":
+/*!*********************************************!*\
+  !*** ./src/js/interface/sidenav/navLink.js ***!
+  \*********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_navLinkStyle_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../css/navLinkStyle.css */ \"./src/css/navLinkStyle.css\");\n\n\nfunction newNavLink(iconSrc, linkText) {\n  const navLink = document.createElement(\"div\");\n  navLink.classList.add(\"navLink\");\n  const icon = document.createElement(\"img\");\n  const link = document.createElement(\"h2\");\n  icon.src = iconSrc;\n  link.textContent = linkText;\n  navLink.appendChild(icon);\n  navLink.appendChild(link);\n  return navLink;\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (newNavLink);\n\n\n//# sourceURL=webpack://to-do/./src/js/interface/sidenav/navLink.js?");
+
+/***/ }),
+
+/***/ "./src/js/interface/sidenav/sidenav.js":
+/*!*********************************************!*\
+  !*** ./src/js/interface/sidenav/sidenav.js ***!
+  \*********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _css_sidenavStyle_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../css/sidenavStyle.css */ \"./src/css/sidenavStyle.css\");\n/* harmony import */ var _navLink__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./navLink */ \"./src/js/interface/sidenav/navLink.js\");\n/* harmony import */ var _logo__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./logo */ \"./src/js/interface/sidenav/logo.js\");\n\n\n\n\nconst sidenav = document.createElement(\"div\");\nsidenav.classList.add(\"sidenav\");\nsidenav.appendChild(_logo__WEBPACK_IMPORTED_MODULE_2__[\"default\"]);\nconst navs = [\n  { icon: \"./resources/draft.svg\", text: \"Draft\" },\n  { icon: \"./resources/work.svg\", text: \"Work\" },\n  { icon: \"./resources/health.svg\", text: \"Health\" },\n  { icon: \"./resources/mind.svg\", text: \"Mind\" },\n  { icon: \"./resources/playground.svg\", text: \"Playground\" },\n  { icon: \"./resources/minimize.svg\", text: \"Minimize\" },\n];\nnavs.forEach((nav) => {\n  const link = (0,_navLink__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(nav.icon, nav.text);\n  sidenav.appendChild(link);\n});\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (sidenav);\n\n\n//# sourceURL=webpack://to-do/./src/js/interface/sidenav/sidenav.js?");
+
+/***/ }),
+
+/***/ "./src/js/interfaceController.js":
+/*!***************************************!*\
+  !*** ./src/js/interfaceController.js ***!
+  \***************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* export default binding */ __WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _interface__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./interface */ \"./src/js/interface.js\");\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../css/style.css */ \"./src/css/style.css\");\n\n\n\n/* harmony default export */ function __WEBPACK_DEFAULT_EXPORT__() {\n  (0,_interface__WEBPACK_IMPORTED_MODULE_0__[\"default\"])();\n\n  const add = document.querySelector(\"#addTask\");\n  add.addEventListener(\"click\", () => {\n    console.log(\"add clicked!\");\n  });\n\n  const links = document.querySelectorAll(\".navLink\");\n  links.forEach((link) => {\n    link.addEventListener(\"click\", () => {\n      links.forEach((link) => {\n        link.classList.remove(\"navLinkClicked\");\n      });\n      link.classList.add(\"navLinkClicked\");\n    });\n  });\n}\n\n\n//# sourceURL=webpack://to-do/./src/js/interfaceController.js?");
 
 /***/ })
 

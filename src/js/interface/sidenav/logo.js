@@ -1,4 +1,4 @@
-import "../../css/logoStyle.css";
+import "../../../css/logoStyle.css";
 const logo = document.createElement("div");
 logo.classList.add("logo");
 const logoIcon = document.createElement("img");

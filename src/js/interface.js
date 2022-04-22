@@ -1,6 +1,6 @@
-import sidenav from "./sidenav/sidenav";
-import sections from "./category/sections";
-import content from "./content/content";
+import sidenav from "./interface/sidenav/sidenav";
+import sections from "./interface/category/sections";
+import content from "./interface/content/content";
 
 export default function () {
   const body = document.querySelector("body");

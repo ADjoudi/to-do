@@ -1,8 +1,14 @@
 .navLink {
+  width: 100%;
   display: flex;
   justify-content: start;
   align-items: center;
   gap: 1.3rem;
+  padding: 1rem;
+}
+.navLink:hover {
+  cursor: pointer;
+  background-color: #f0f8ff;
 }
 
 .navLink img {
@@ -16,4 +22,15 @@
   font-family: "Roboto", sans-serif;
   font-size: 1rem;
   font-weight: 400;
+}
+.navLinkClicked:hover {
+  background-color: var(--background--color);
+}
+.navLinkClicked img {
+  filter: var(--accent--color--filter);
+}
+
+.navLinkClicked h2 {
+  color: var(--blue);
+  font-weight: 800;
 }

@@ -1,4 +1,4 @@
-import "../../css/navLinkStyle.css";
+import "../../../css/navLinkStyle.css";
 
 function newNavLink(iconSrc, linkText) {
   const navLink = document.createElement("div");

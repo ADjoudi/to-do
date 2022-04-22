@@ -1,4 +1,2 @@
-import view from "./js/interface";
-import "./css/style.css";
-
-view();
+import dashboard from "./js/interfaceController";
+dashboard();

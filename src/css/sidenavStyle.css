@@ -5,9 +5,9 @@
   flex-direction: column;
   justify-content: start;
   align-items: start;
-  padding: 2rem;
-  padding-right: 0;
-  gap: 2.75rem;
+  padding: 1rem;
+
+  gap: 1.75rem;
   background-color: var(--grey--background);
 }
 

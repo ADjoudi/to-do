@@ -1,4 +1,4 @@
-import "../../css/sidenavStyle.css";
+import "../../../css/sidenavStyle.css";
 import navLink from "./navLink";
 import logo from "./logo";
 
