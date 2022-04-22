@@ -1,4 +1,4 @@
-.category {
+.newcategory {
   width: 16.375rem;
   height: 12.5rem;
   display: grid;
@@ -10,25 +10,26 @@
   gap: 0.8rem;
   border: 1px solid var(--grey--background);
 }
-.category:hover {
+.newcategory:hover {
   cursor: pointer;
   background-color: var(--grey--background);
   border-color: white;
 }
-.category h2 {
+.newcategory input {
   grid-area: title;
   font-size: 1.5rem;
   font-weight: 600;
   align-self: end;
+  border: none;
 }
 
-.category h3 {
+.newcategory h3 {
   font-size: 1rem;
   font-weight: 600;
   color: #828282;
 }
 
-.category .nbrTasks {
+.newcategory .nbrTasks {
   grid-area: nbrTasks;
 }
 

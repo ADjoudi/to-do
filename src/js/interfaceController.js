@@ -1,5 +1,6 @@
 import view from "./interface";
 import "../css/style.css";
+import newsection from "./interface/popup/newsection";
 
 export default function () {
   view();
@@ -17,5 +18,11 @@ export default function () {
       });
       link.classList.add("navLinkClicked");
     });
+  });
+
+  const addNewSection = document.querySelector("#addnew");
+  addNewSection.addEventListener("click", () => {
+    const categories = document.querySelector(".categories");
+    categories.appendChild(newsection());
   });
 }

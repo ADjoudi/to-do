@@ -6,6 +6,7 @@
   --blue: #388ef4;
   --accent--color--filter: invert(75%) sepia(59%) saturate(3607%)
     hue-rotate(346deg) brightness(99%) contrast(89%);
+  --hover--color: #f0f8ff;
 }
 
 * {
@@ -19,4 +20,5 @@ body {
   width: 100vw;
   height: 100vh;
   display: flex;
+  overflow: hidden;
 }

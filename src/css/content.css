@@ -1,6 +1,7 @@
 .content {
   flex: 1;
   margin: 1.375rem;
+  margin-left: 0;
   background-color: var(--grey--background);
-  border-radius: 25px;
+  border-radius: 15px;
 }

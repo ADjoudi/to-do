@@ -8,7 +8,7 @@
 }
 .navLink:hover {
   cursor: pointer;
-  background-color: #f0f8ff;
+  background-color: var(--hover--color);
 }
 
 .navLink img {

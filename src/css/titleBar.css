@@ -9,6 +9,12 @@
   display: flex;
   align-items: center;
   gap: 1rem;
+  padding: 1rem;
+}
+
+#addnew:hover {
+  cursor: pointer;
+  background-color: var(--hover--color);
 }
 
 .titlebar h1 {
