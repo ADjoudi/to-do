@@ -1,3 +1,3 @@
-import dashboard from "./js/interfaceController";
+import dashboard from "./js/controller";
 
 dashboard();

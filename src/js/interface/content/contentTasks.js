@@ -1,8 +1,8 @@
 import "../../../css/contentTasks.css";
 
-import tasks from "./taskHandler";
+import task from "./task";
 
-const tasksInterface = (tasks) => {
+export default (function tasksInterface() {
   const contentTasks = document.createElement("div");
   const add = document.createElement("img");
 
@@ -10,15 +10,14 @@ const tasksInterface = (tasks) => {
   add.src = "./resources/addtodo.svg";
   add.classList.add("addTask");
   add.setAttribute("id", "addTask");
+
+  const tasks = [task("hey there")];
   if (tasks) {
     tasks.forEach((task) => {
       contentTasks.appendChild(task);
     });
   }
-  console.log(add);
   contentTasks.appendChild(add);
 
   return contentTasks;
-};
-
-export default tasksInterface(tasks);
+})();

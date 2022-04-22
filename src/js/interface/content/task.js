@@ -1,50 +1,23 @@
 import "../../../css/task.css";
 
-export default class Task {
-  constructor() {
-    this.text;
-    this.dueDate;
-    this.isDone = false;
-  }
-  setText(text) {
-    this.text = text;
-  }
-  setDueDate(dueDate) {
-    this.dueDate = dueDate;
-  }
-  setStatus(isDone) {
-    this.isDone = isDone;
-  }
+export default function createTaskInterface(taskString) {
+  const taskInterface = document.createElement("div");
+  const taskText = document.createElement("p");
+  const interactions = document.createElement("div");
+  const edit = document.createElement("img");
+  const del = document.createElement("img");
 
-  getText() {
-    return this.text;
-  }
-  getDueDate() {
-    return this.dueDate;
-  }
-  getStatus() {
-    return this.isDone;
-  }
+  taskInterface.classList.add("task");
+  taskText.textContent = taskString;
+  interactions.classList.add("interactions");
+  edit.src = "./resources/edit.svg";
+  del.src = "./resources/delete.svg";
 
-  createTaskInterface(taskString) {
-    const taskInterface = document.createElement("div");
-    const taskText = document.createElement("p");
-    const interactions = document.createElement("div");
-    const edit = document.createElement("img");
-    const del = document.createElement("img");
+  interactions.appendChild(edit);
+  interactions.appendChild(del);
 
-    taskInterface.classList.add("task");
-    taskText.textContent = taskString;
-    interactions.classList.add("interactions");
-    edit.src = "./resources/edit.svg";
-    del.src = "./resources/delete.svg";
+  taskInterface.appendChild(taskText);
+  taskInterface.appendChild(interactions);
 
-    interactions.appendChild(edit);
-    interactions.appendChild(del);
-
-    taskInterface.appendChild(taskText);
-    taskInterface.appendChild(interactions);
-
-    return taskInterface;
-  }
+  return taskInterface;
 }
