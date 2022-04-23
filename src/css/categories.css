@@ -1,5 +1,6 @@
 .categories {
   height: 100%;
+  width: calc(16.375rem * 2);
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: min-content;

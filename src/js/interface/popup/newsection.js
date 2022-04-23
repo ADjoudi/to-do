@@ -12,7 +12,7 @@ export default function addCategory() {
 
   title.setAttribute("type", "text");
   title.setAttribute("placeholder", "Name");
-  title.setAttribute("id", "inputcategory");
+  title.setAttribute("id", "categoryNameInput");
   nbrTasksRemaining.textContent = `0 Tasks Remaining`;
   enterBtn.textContent = "->";
 

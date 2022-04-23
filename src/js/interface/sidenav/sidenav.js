@@ -7,10 +7,7 @@ sidenav.classList.add("sidenav");
 sidenav.appendChild(logo);
 const navs = [
   { icon: "./resources/draft.svg", text: "Draft" },
-  { icon: "./resources/work.svg", text: "Work" },
-  { icon: "./resources/health.svg", text: "Health" },
-  { icon: "./resources/mind.svg", text: "Mind" },
-  { icon: "./resources/playground.svg", text: "Playground" },
+  { icon: "./resources/work.svg", text: "Personnal" },
   { icon: "./resources/minimize.svg", text: "Minimize" },
 ];
 navs.forEach((nav) => {
