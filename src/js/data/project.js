@@ -11,4 +11,8 @@ export default class Project {
   getCategories() {
     return this.categories;
   }
+
+  getProjectName() {
+    return this.projectName;
+  }
 }
